@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Modernized Biomarker Discovery Framework"
+abstract: >-
+  A governance-driven, methodology-aware, and implementation-independent
+  R framework for reproducible biomarker discovery and translational
+  research, demonstrated through a 12-gene gastric cancer signature
+  case study.
+authors:
+  - family-names: "Tran"
+    given-names: "Nhan"
+    affiliation: ""
+date-released: "2026"
+version: "0.0.0.9000"
+license: MIT
+repository-code: "https://github.com/NhanTran99/ModernizedBiomarkerDiscoveryFramework.git"
+keywords:
+  - biomarker discovery
+  - gastric cancer
+  - bioinformatics
+  - reproducible research
+  - R package

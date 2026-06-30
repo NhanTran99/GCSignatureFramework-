@@ -1,3 +1,19 @@
+# bootstrap.R
+#
+# DEVELOPER-ONLY BOOTSTRAP SCRIPT
+# --------------------------------
+# This script is used by project maintainers to bootstrap or reset the
+# local development environment during framework construction.
+#
+# It is NOT required for normal package installation or usage.
+#
+# End users installing and using the Modernized Biomarker Discovery
+# Framework should follow docs/INSTALLATION.md instead. This script is
+# retained in the repository for development history and maintainer
+# reference only.
+#
+# ---------------------------------------------------------------------
+
 ## dev/bootstrap.R
 ##
 ## Module 01 — Repository Bootstrap

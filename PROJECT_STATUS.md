@@ -150,17 +150,11 @@ Module identities, ownership, responsibilities, and execution order are LOCKED.
 
 Status:
 
-Governance Framework: COMPLETE
-
-Coding Framework: COMPLETE
-
-Methodology Framework: COMPLETE
-
-Repository Release Preparation: READY
+Repository Release Preparation: IN PROGRESS
 
 Current governed activity:
 
-Repository Release Preparation (WP1–WP6)
+WP6 Execution — Release Finalization
 
 ## 6A. Methodology Framework Status
 
@@ -289,6 +283,27 @@ Verification Evidence
 
 ## 10. Immediate Next Activity
 
+### Repository Release Status
+
+| Work Package | Status |
+|--------------|--------|
+| WP1 – Repository Cleanup | COMPLETE (LOCKED) |
+| WP2 – Public Documentation | COMPLETE (LOCKED) |
+| WP3 – Repository Integration Review | COMPLETE (LOCKED) |
+| WP4 – Reproducibility & Release | COMPLETE (LOCKED) |
+| WP5 – Repository QA | COMPLETE (LOCKED) |
+| WP6 – Release Finalization | IN PROGRESS |
+
+### Repository Release Planning Status
+
+Repository Release Preparation planning is COMPLETE.
+
+The planning documents for WP1–WP6 have been reviewed and LOCKED.
+
+WP1–WP5 have been successfully executed and LOCKED.
+
+The project has now entered WP6 Execution (Release Finalization), where the repository is frozen, release deliverables are verified, Version 1.0 is finalized, and the repository is prepared for public release.
+
 Repository Release Preparation
 
 The complete architectural design phase of the project has been completed.
@@ -309,6 +324,11 @@ Objectives:
 - public-facing documentation
 - Version 1.0 preparation
 
+Repository Release Update
+
+The previously empty `inst/` directory has been populated with the canonical smoke test (`inst/examples/smoke_test.R`) during WP4 Reproducibility Validation.
+
+The WP1 repository cleanup observation regarding an empty `inst/` directory is therefore considered CLOSED.
 ----
 ## 11. Locked Coding Modules
 
